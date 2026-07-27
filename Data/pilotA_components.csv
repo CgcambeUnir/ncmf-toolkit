@@ -1,0 +1,6 @@
+component_id,component_name,TRL,MRL,severity_FMEA
+A1,Data Lakehouse and Ingestion,9,9,7
+A2,ML Training and Serving,8,8,8
+A3,External Data and Algorithm Provider,9,9,9
+A4,External (non-governed) Cloud Platform,9,9,10
+A5,Personalisation API,8,8,6

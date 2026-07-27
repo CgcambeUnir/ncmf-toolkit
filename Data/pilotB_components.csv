@@ -1,0 +1,6 @@
+component_id,component_name,TRL,MRL,severity_FMEA
+C1,Backend App Server,6,7,8
+C2,Vehicular IoT Device,8,8,7
+C3,Payments Gateway,7,8,6
+C4,Private Cloud Infrastructure,8,9,10
+C5,Authentication Module (SCA),9,9,9

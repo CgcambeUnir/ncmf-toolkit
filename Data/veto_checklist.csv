@@ -1,0 +1,9 @@
+item,description,pilotA_pass,pilotA_evidence,pilotB_pass,pilotB_evidence
+i,IT governance and technology risk management,1,"SFCR 2024 Sec. B.1 (p. 36); Sec. B.3 (p. 53)",1,"SFCR 2024 Sec. B.1 (p. 36); Sec. B.3 (p. 53)"
+ii,Internal control system and compliance function,1,"SFCR 2024 Sec. B.4 (p. 68); Sec. B.4.2 (p. 71)",1,"SFCR 2024 Sec. B.4 (p. 68); Sec. B.4.2 (p. 71)"
+iii,Business continuity (BCM) and disaster recovery testing,1,"SFCR 2024 Sec. C.5 (p. 93); ISO 22301 certification",1,"SFCR 2024 Sec. C.5 (p. 93); ISO 22301 certification"
+iv,Management of critical ICT third parties,0,"SFCR 2024 Sec. B.7.1 (p. 73): provider not certified under the group outsourcing policy",1,"SFCR 2024 Sec. B.7.1 (p. 73): outsourcing policy with monitoring clauses"
+v,Cloud outsourcing management,0,"SFCR 2024 Sec. B.7.2 (p. 79): external platform outside the governed private cloud",1,"SFCR 2024 Sec. B.7.2 (p. 79): private cloud housing services"
+vi,Inventory of essential ICT functions,1,"SFCR 2024 Sec. B.7.2 (p. 79): list of critical activities",1,"SFCR 2024 Sec. B.7.2 (p. 79): list of critical activities"
+vii,Security governance bodies (CISO / committee),1,"SFCR 2024 Sec. B.1.2 (p. 42): Information Security Committee",1,"SFCR 2024 Sec. B.1.2 (p. 42): Information Security Committee"
+viii,Information integrity (SCIIF / UNE 19602),1,"SFCR 2024 Sec. B.4.1 (p. 73); UNE 19602 certification (p. 93)",1,"SFCR 2024 Sec. B.4.1 (p. 73); UNE 19602 certification (p. 93)"
