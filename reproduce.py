@@ -152,7 +152,7 @@ for k in ("TRL", "MRL", "severity", "AIF"):
         else:                A_ = np.clip(A_ + 0.2 * d, 1, 3)
         C_ = sev * A_
         i_, c_ = ismi(operational_maturity(trl, mrl), C_), cwri(trl, C_, TRL_TARGET)
-        print(f"  {k:9s} {d:+d}:  ISMI = {i_:5.2f} ({100*(i_-base_i)/base_i:+6.2f}%)"
+        print(f"  {k:9s} {shown:+.2g}:  ISMI = {i_:5.2f} ({100*(i_-base_i)/base_i:+6.2f}%)"
               f"   CWRI = {c_:6.1f} ({100*(c_-base_c)/base_c:+7.2f}%)")
 
 rho, c1_top = [], 0
