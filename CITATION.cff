@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the associated paper."
+title: "NCMF: Non-Compensatory Multimetric Framework for Technology Assessment in Regulated Environments"
+authors:
+  - family-names: "González"
+    given-names: "Carolina"
+    affiliation: "Universidad Internacional de La Rioja (UNIR)"
+  - family-names: "Lamo"
+    given-names: "Paula"
+    affiliation: "Universidad Internacional de La Rioja (UNIR)"
+  - family-names: "Rainer"
+    given-names: "J. Javier"
+    affiliation: "Universidad Internacional de La Rioja (UNIR)"
+version: 1.0.0
+date-released: 2026-07-27
+license: MIT
